@@ -1,6 +1,8 @@
 
 public class A {
-   public static void main(){
-System.out.print("生活");   
-   }
+    public static void main(String[] args) {
+        System.out.println("生活");
+    }
+
+
 }
